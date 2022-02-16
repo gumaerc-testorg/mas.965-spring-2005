@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource includes project exersices submitted by the student in
   week 3, 4, and 5.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/mas-965-relational-machines-spring-2005/e65af722ef1d3b3d9782a6ba04001bd5_tellex_exercises.pdf
+file: /media/courses/mas-965-relational-machines-spring-2005/e65af722ef1d3b3d9782a6ba04001bd5_tellex_exercises.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: tellex_exercises.pdf
 uid: e65af722-ef1d-3b3d-9782-a6ba04001bd5
