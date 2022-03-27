@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: af7c6fa2-6acf-1f3b-13a3-263f542d206f
 resourcetype: Document
 title: wd_week9.pdf
 uid: 930b438e-1f3b-d123-e306-c545926d02a0

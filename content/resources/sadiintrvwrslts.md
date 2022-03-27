@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 489cb029-7c8f-ee01-1c5d-47deb7fd5575
 resourcetype: Document
 title: sadiintrvwrslts.pdf
 uid: f1cca5b5-6db8-294a-73ce-3f34bcf2f5d6

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 489cb029-7c8f-ee01-1c5d-47deb7fd5575
 resourcetype: Document
 title: brooks_proposal.pdf
 uid: 7f646417-479b-376f-8c0d-3c736595415e

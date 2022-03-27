@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 34e2e8fe-5caf-8f4b-cc99-0b5d8a63b6dd
 resourcetype: Document
 title: lect3_robots.pdf
 uid: 39ea02d8-e06a-769b-8a70-fd5742b39fe7

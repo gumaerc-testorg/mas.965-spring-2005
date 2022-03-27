@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 489cb029-7c8f-ee01-1c5d-47deb7fd5575
 resourcetype: Document
 title: brooksfinalproj.pdf
 uid: 4d06e6e8-cfb0-eff5-5e3b-dc61a4cee131

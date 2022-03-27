@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 489cb029-7c8f-ee01-1c5d-47deb7fd5575
 resourcetype: Document
 title: wendongexercises.pdf
 uid: 26bf4468-f1dd-46f6-f7b3-bcc0f8480045

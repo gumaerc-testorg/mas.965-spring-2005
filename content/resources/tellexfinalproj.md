@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 489cb029-7c8f-ee01-1c5d-47deb7fd5575
 resourcetype: Document
 title: tellexfinalproj.pdf
 uid: e6daad07-9dd9-da37-d199-9a6a88a15380
