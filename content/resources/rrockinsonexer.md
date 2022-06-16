@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/mas-965-relational-machines-spring-2005/9f41ef013d292d5880216e94c9e1bea2_rrockinsonexer.pdf
+file: /courses/mas-965-relational-machines-spring-2005/9f41ef013d292d5880216e94c9e1bea2_rrockinsonexer.pdf
 file_type: application/pdf
 learning_resource_types:
 - Projects

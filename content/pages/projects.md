@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes projects submitted by the student during various
+  weeks.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -42,15 +44,15 @@ Project Exercises
 {{< tdopen >}}
 
 
-Sajid Sadi ([PDF]({{< baseurl >}}/resources/sadi_exercises))
+Sajid Sadi ({{% resource_link 76038ea8-1cdc-a432-ed82-af437072b2f6 "PDF" %}})
 
-Sajid Sadi - Interview results ([PDF]({{< baseurl >}}/resources/sadiintrvwrslts))
+Sajid Sadi - Interview results ({{% resource_link f1cca5b5-6db8-294a-73ce-3f34bcf2f5d6 "PDF" %}})
 
-Stefanie Tellex ([PDF]({{< baseurl >}}/resources/tellex_exercises))
+Stefanie Tellex ({{% resource_link e65af722-ef1d-3b3d-9782-a6ba04001bd5 "PDF" %}})
 
-Randy Rockinson ([PDF]({{< baseurl >}}/resources/rrockinsonexer))
+Randy Rockinson ({{% resource_link 9f41ef01-3d29-2d58-8021-6e94c9e1bea2 "PDF" %}})
 
-Wen Dong ([PDF]({{< baseurl >}}/resources/wendongexercises))
+Wen Dong ({{% resource_link 26bf4468-f1dd-46f6-f7b3-bcc0f8480045 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -67,9 +69,9 @@ Project Proposals
 {{< tdopen >}}
 
 
-Sajid Sadi ([PDF]({{< baseurl >}}/resources/sadi_proposal))
+Sajid Sadi ({{% resource_link 85a6f141-ccae-31b6-19dc-4a0aba3f7763 "PDF" %}})
 
-Stefanie Tellex ([PDF]({{< baseurl >}}/resources/tellex_proposal))
+Stefanie Tellex ({{% resource_link ab72b999-edad-b56b-3571-04287db025b7 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -86,9 +88,9 @@ Final Projects
 {{< tdopen >}}
 
 
-Sajid Sadi ([PDF]({{< baseurl >}}/resources/sadi_finalreport))
+Sajid Sadi ({{% resource_link a96e00ca-98cb-0cb1-adff-c2b78a63e8c7 "PDF" %}})
 
-Stefanie Tellex - Relational Interface for a Voice Controlled Wheelchair ([PDF]({{< baseurl >}}/resources/tellexfinalproj))
+Stefanie Tellex - Relational Interface for a Voice Controlled Wheelchair ({{% resource_link e6daad07-9dd9-da37-d199-9a6a88a15380 "PDF" %}})
 
 
 {{< tdclose >}}
