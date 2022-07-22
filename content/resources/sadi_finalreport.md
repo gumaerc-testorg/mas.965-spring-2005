@@ -6,6 +6,7 @@ file: /courses/mas-965-relational-machines-spring-2005/a96e00ca98cb0cb1adffc2b78
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: sadi_finalreport.pdf
 uid: a96e00ca-98cb-0cb1-adff-c2b78a63e8c7
 ---
 This resource contains goals and overview, interaction, design, aobservation, and goals of the final project report.
-

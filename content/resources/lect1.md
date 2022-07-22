@@ -6,6 +6,7 @@ file: /courses/mas-965-relational-machines-spring-2005/5cfc3e2d2ee8091d0d3e3c223
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lect1.pdf
 uid: 5cfc3e2d-2ee8-091d-0d3e-3c2237f5d1d0
 ---
 This resource includes a brief introduction of the topics included in the course.
-

@@ -6,6 +6,7 @@ file: /courses/mas-965-relational-machines-spring-2005/24d0ccc571c3068678da8ebae
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: st_week6.pdf
 uid: 24d0ccc5-71c3-0686-78da-8ebae6e2ab2c
 ---
 This resource includes assignments created by the students on "DiamondHelp: A Collaborative Interface Framework for Networked Home Appliances".
-

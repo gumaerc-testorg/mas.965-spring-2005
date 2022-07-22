@@ -5,6 +5,7 @@ file: /courses/mas-965-relational-machines-spring-2005/a33ee858f194113cc6f6499a7
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection

@@ -6,6 +6,7 @@ file: /courses/mas-965-relational-machines-spring-2005/ce6a1b911fcd7b3f925d76593
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: st_week11.pdf
 uid: ce6a1b91-1fcd-7b3f-925d-765938493224
 ---
 This resource includes assignments created by the students on a plan-based personalized cognitive orthotic, starner, attention, memory, and wearable interfaces.
-

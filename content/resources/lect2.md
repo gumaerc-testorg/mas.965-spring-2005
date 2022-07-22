@@ -6,6 +6,7 @@ file: /courses/mas-965-relational-machines-spring-2005/c376f50e5ad0ad774ffe23b3a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lect2.pdf
 uid: c376f50e-5ad0-ad77-4ffe-23b3aa2c2bab
 ---
 This resource conatins a brief summary of week 2 readings, questions to ponder for relational machines.
-

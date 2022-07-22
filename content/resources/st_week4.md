@@ -6,6 +6,7 @@ file: /courses/mas-965-relational-machines-spring-2005/99fdc0c4694bdf1c8b7377070
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: st_week4.pdf
 uid: 99fdc0c4-694b-df1c-8b73-7707080c5017
 ---
 This resource includes assignments created by the students on assistive robotics and an ecology of elders living independently in their homes.
-

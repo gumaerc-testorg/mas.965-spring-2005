@@ -6,6 +6,7 @@ file: /courses/mas-965-relational-machines-spring-2005/4e39835d8a964bda2de833229
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: jg_week6.pdf
 uid: 4e39835d-8a96-4bda-2de8-33229877b085
 ---
 This resource includes assignments created by the students on collaborative systems.
-

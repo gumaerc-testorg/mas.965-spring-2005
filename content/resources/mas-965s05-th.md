@@ -9,10 +9,10 @@ image_metadata:
   image-alt: A photograph of the robot Leo.  Leo stands before three plunger style
     buttons with its hand on the center button.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: mas-965s05-th.jpg
 uid: 1a29cf8f-c509-ced3-bab3-7398aa973969
 ---
 New image Upload
-
