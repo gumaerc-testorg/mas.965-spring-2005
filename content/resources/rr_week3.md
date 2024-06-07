@@ -4,6 +4,7 @@ description: This resource includes assignments created by the students on the a
   of data from two-person relationships, and self-report methods in studying personal
   relationships.
 file: /courses/mas-965-relational-machines-spring-2005/ba1768cc128c7ac5836491fe65f798f3_rr_week3.pdf
+file_size: 83719
 file_type: application/pdf
 learning_resource_types:
 - Assignments

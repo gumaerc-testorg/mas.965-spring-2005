@@ -4,6 +4,7 @@ description: 'This resource includes assignments created by the students on  a t
   basis for health benefits of pet ownership: attachment versus psychological support,
   and interaction and daily life in long-term relationships.'
 file: /courses/mas-965-relational-machines-spring-2005/da594a527ec1b8c50a9d34d637f24fbf_rr_week2.pdf
+file_size: 78889
 file_type: application/pdf
 learning_resource_types:
 - Assignments

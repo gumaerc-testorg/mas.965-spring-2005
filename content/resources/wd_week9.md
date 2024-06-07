@@ -3,6 +3,7 @@ content_type: resource
 description: This resource includes assignments created by the students on review
   of "Establishing and Maintaining Long-Term Human-Computer Relationships".
 file: /courses/mas-965-relational-machines-spring-2005/930b438e1f3bd123e306c545926d02a0_wd_week9.pdf
+file_size: 48775
 file_type: application/pdf
 learning_resource_types:
 - Assignments

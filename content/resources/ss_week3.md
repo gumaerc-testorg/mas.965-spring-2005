@@ -4,6 +4,7 @@ description: 'This resource includes assignments created by the students on hand
   of personal relationships: theory, research, and interventions, and the measurement
   of trust and its relationship to self-disclosure.'
 file: /courses/mas-965-relational-machines-spring-2005/26e185ad9965a2a1e5c2461a2188c39d_ss_week3.pdf
+file_size: 76682
 file_type: application/pdf
 learning_resource_types:
 - Assignments

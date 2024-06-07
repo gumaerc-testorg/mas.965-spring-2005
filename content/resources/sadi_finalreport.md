@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains goals and overview, interaction, design, aobservation,
   and goals of the final project report.
 file: /courses/mas-965-relational-machines-spring-2005/a96e00ca98cb0cb1adffc2b78a63e8c7_sadi_finalreport.pdf
+file_size: 78725
 file_type: application/pdf
 learning_resource_types:
 - Projects

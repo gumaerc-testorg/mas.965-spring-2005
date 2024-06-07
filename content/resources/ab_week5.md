@@ -6,6 +6,7 @@ description: 'This resource includes assignments created by the students on towa
   robot assisted activity to elderly people who stay at a health service facility
   for the aged.'
 file: /courses/mas-965-relational-machines-spring-2005/d6edb7357861741f7dc1c4b4615e1a3b_ab_week5.pdf
+file_size: 68969
 file_type: application/pdf
 learning_resource_types:
 - Assignments
