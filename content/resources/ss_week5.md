@@ -4,6 +4,7 @@ description: 'This resource includes assignments created by the students on towa
   robotic assistants in nursing homes: challenges and results, and is an entertainment
   robot useful in the care of elderly people with severe dementia?'
 file: /courses/mas-965-relational-machines-spring-2005/6e7eedba70d8339dde2669329e61ebad_ss_week5.pdf
+file_size: 78517
 file_type: application/pdf
 learning_resource_types:
 - Assignments

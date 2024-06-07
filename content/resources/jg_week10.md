@@ -4,6 +4,7 @@ description: This resource includes assignments created by the students on what 
   tells us about social cognition, do the eyes have it?, and mirror neurons and the
   simulation theory of mind-reading.
 file: /courses/mas-965-relational-machines-spring-2005/8f99c2d8a0f774eac46f97c5c0d7bef2_jg_week10.pdf
+file_size: 47913
 file_type: application/pdf
 learning_resource_types:
 - Assignments

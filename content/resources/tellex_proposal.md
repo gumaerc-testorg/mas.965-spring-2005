@@ -3,6 +3,7 @@ content_type: resource
 description: This resource includes abstract, introduction, related work, defining
   the problem, architecture, evaluation, and conclusion for the project proposal.
 file: /courses/mas-965-relational-machines-spring-2005/ab72b999edadb56b357104287db025b7_tellex_proposal.pdf
+file_size: 76729
 file_type: application/pdf
 learning_resource_types:
 - Projects

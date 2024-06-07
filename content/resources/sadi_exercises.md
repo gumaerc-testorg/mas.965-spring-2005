@@ -3,6 +3,7 @@ content_type: resource
 description: The given resource conatains overview, and project exersices sumbitted
   by the student in week 2,3,4, and 6.
 file: /courses/mas-965-relational-machines-spring-2005/76038ea81cdca432ed82af437072b2f6_sadi_exercises.pdf
+file_size: 124154
 file_type: application/pdf
 learning_resource_types:
 - Projects
