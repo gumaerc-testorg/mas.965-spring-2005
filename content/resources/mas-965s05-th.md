@@ -2,6 +2,7 @@
 content_type: resource
 description: New image Upload
 file: /courses/mas-965-relational-machines-spring-2005/1a29cf8fc509ced3bab37398aa973969_mas-965s05-th.jpg
+file_size: 2535
 file_type: image/jpeg
 image_metadata:
   caption: The robot Leo. (Image courtesy of Andrea Lockerd and Guy Hoffman.)

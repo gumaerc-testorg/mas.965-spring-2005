@@ -3,6 +3,7 @@ content_type: resource
 description: This resource includes assignments created by the students on assistive
   robotics and an ecology of elders living independently in their homes.
 file: /courses/mas-965-relational-machines-spring-2005/99fdc0c4694bdf1c8b737707080c5017_st_week4.pdf
+file_size: 51448
 file_type: application/pdf
 learning_resource_types:
 - Assignments

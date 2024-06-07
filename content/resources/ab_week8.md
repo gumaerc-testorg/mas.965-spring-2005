@@ -5,6 +5,7 @@ description: 'This resource includes assignments created by the students on peer
   scaffolding in interactive learning environments, and  affective agents: sustaining
   motivation to learn through failure and a state of stuck.'
 file: /courses/mas-965-relational-machines-spring-2005/e3d7bd8b3a029f84b5a52bdde2e64ce8_ab_week8.pdf
+file_size: 69723
 file_type: application/pdf
 learning_resource_types:
 - Assignments

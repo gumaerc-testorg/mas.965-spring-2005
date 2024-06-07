@@ -4,6 +4,7 @@ description: This resource includes assignments created by the students on mirro
   neurons and the simulation theory of mind-reading, do the eyes have it?, and what
   imitation tells us about social cognition.
 file: /courses/mas-965-relational-machines-spring-2005/d64b546698197da5f05e3adde23a8624_ss_week10.pdf
+file_size: 64975
 file_type: application/pdf
 learning_resource_types:
 - Assignments

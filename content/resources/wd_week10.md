@@ -4,6 +4,7 @@ description: 'This resource includes assignments created by the students on revi
   of "What imitation tells us about social cognition: a rapprochement between developmental
   psychology and cognitive neuroscience".'
 file: /courses/mas-965-relational-machines-spring-2005/abfd667c743e28d4502de92e6eed74d8_wd_week10.pdf
+file_size: 56752
 file_type: application/pdf
 learning_resource_types:
 - Assignments

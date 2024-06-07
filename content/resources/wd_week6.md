@@ -4,6 +4,7 @@ description: 'This resource includes assignments created by the students on Revi
   of "DiamondHelp: A Graphical User Interface Framework for Human-Computer Collaboration",
   and "Teamwork".'
 file: /courses/mas-965-relational-machines-spring-2005/f0c76e8130a4fd19a935643af4b3c52e_wd_week6.pdf
+file_size: 52664
 file_type: application/pdf
 learning_resource_types:
 - Assignments
