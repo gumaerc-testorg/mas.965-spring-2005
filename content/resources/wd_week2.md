@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes assignments created by the students on interaction
   and daily life in long-term relationships.
-file: /courses/mas-965-relational-machines-spring-2005/0868c3ae9ebb2cd5718ee5ea4d03e6da_wd_week2.pdf
+file: /ol-ocw-studio-app/courses/mas-965-relational-machines-spring-2005/0868c3ae9ebb2cd5718ee5ea4d03e6da_wd_week2.pdf
 file_size: 42016
 file_type: application/pdf
 learning_resource_types:

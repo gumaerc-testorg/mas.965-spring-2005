@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes project exersices submitted by the student in
   week 2, 3, and 4.
-file: /courses/mas-965-relational-machines-spring-2005/d9c2cb95eb281bb2701b38f231bedde8_brooks_exercises.pdf
+file: /ol-ocw-studio-app/courses/mas-965-relational-machines-spring-2005/d9c2cb95eb281bb2701b38f231bedde8_brooks_exercises.pdf
 file_size: 66796
 file_type: application/pdf
 learning_resource_types:

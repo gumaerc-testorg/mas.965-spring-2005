@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource includes assignments created by the students on interaction
   and daily life in long-term relationships, and a theoretical basis for health benefits
   of pet ownership: attachment versus psychological support.'
-file: /courses/mas-965-relational-machines-spring-2005/7adfb165ed671242de1e1dbd415c00af_ss_week2.pdf
+file: /ol-ocw-studio-app/courses/mas-965-relational-machines-spring-2005/7adfb165ed671242de1e1dbd415c00af_ss_week2.pdf
 file_size: 72017
 file_type: application/pdf
 learning_resource_types:

@@ -3,7 +3,7 @@ content_type: resource
 description: This resource includes assignments created by the students on self-report
   methods in studying personal relationships,  development and validation of the working
   alliance inventory, and the measurement of trust and its relationship to self-disclosure.
-file: /courses/mas-965-relational-machines-spring-2005/4ec534824ed46edf554b97b2f9522523_jg_week3.pdf
+file: /ol-ocw-studio-app/courses/mas-965-relational-machines-spring-2005/4ec534824ed46edf554b97b2f9522523_jg_week3.pdf
 file_size: 53912
 file_type: application/pdf
 learning_resource_types:
