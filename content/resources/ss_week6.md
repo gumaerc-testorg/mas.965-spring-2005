@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource includes assignments created by the students on a collaborative
   interface framework for networked home appliances, collaboration in human-robot
   teams, and collaborative systems: the1994 AAAI presidential address.'
-file: /courses/mas-965-relational-machines-spring-2005/e4874030d1d1bd3b2ea8dcdb5b45c7a1_ss_week6.pdf
+file: /ol-ocw-studio-app/courses/mas-965-relational-machines-spring-2005/e4874030d1d1bd3b2ea8dcdb5b45c7a1_ss_week6.pdf
 file_size: 78996
 file_type: application/pdf
 learning_resource_types:
