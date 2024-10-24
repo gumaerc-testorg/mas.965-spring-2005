@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/mas-965-relational-machines-spring-2005/a33ee858f194113cc6f6499a73414957_jessegrayexer.pdf
+file: /ol-ocw-studio-app/courses/mas-965-relational-machines-spring-2005/a33ee858f194113cc6f6499a73414957_jessegrayexer.pdf
 file_size: 90923
 file_type: application/pdf
 learning_resource_types:
