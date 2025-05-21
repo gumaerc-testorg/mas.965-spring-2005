@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes assignments created by the students on collaborative
   systems.
-file: /ol-ocw-studio-app/courses/mas-965-relational-machines-spring-2005/4e39835d8a964bda2de833229877b085_jg_week6.pdf
+file: /courses/mas-965-relational-machines-spring-2005/4e39835d8a964bda2de833229877b085_jg_week6.pdf
 file_size: 40793
 file_type: application/pdf
 learning_resource_types:

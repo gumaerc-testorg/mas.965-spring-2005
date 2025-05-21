@@ -4,7 +4,7 @@ description: 'This resource includes assignments created by the students on revi
   of "Affective Agents: Sustaining Motivation to Learn Through Failure and a State
   of ''Stuck'' ", and "The Design of Guided Learner-Adaptable Scaffolding in Interactive
   Learning Environments".'
-file: /ol-ocw-studio-app/courses/mas-965-relational-machines-spring-2005/a3f1548d4b2330f07f7d12edc477790c_wd_week8.pdf
+file: /courses/mas-965-relational-machines-spring-2005/a3f1548d4b2330f07f7d12edc477790c_wd_week8.pdf
 file_size: 51206
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/mas-965-relational-machines-spring-2005/9f41ef013d292d5880216e94c9e1bea2_rrockinsonexer.pdf
+file: /courses/mas-965-relational-machines-spring-2005/9f41ef013d292d5880216e94c9e1bea2_rrockinsonexer.pdf
 file_size: 99381
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes assignments created by the students on the media
   equation.
-file: /ol-ocw-studio-app/courses/mas-965-relational-machines-spring-2005/cdbb5e6f8b1069d2bc02276fb073ec08_st_week5.pdf
+file: /courses/mas-965-relational-machines-spring-2005/cdbb5e6f8b1069d2bc02276fb073ec08_st_week5.pdf
 file_size: 52393
 file_type: application/pdf
 learning_resource_types:
