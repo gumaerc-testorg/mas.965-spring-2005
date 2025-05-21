@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource includes assignments created by the students on "Is an
   Entertainment Robot Useful in the Care of Elderly People With Severe Dementia?",
   and "Towards robotic assistants in nursing homes: Challenges and results".'
-file: /ol-ocw-studio-app/courses/mas-965-relational-machines-spring-2005/bea0f64baf9e52ce3266016f8e5716d9_jg_week5.pdf
+file: /courses/mas-965-relational-machines-spring-2005/bea0f64baf9e52ce3266016f8e5716d9_jg_week5.pdf
 file_size: 57703
 file_type: application/pdf
 learning_resource_types:

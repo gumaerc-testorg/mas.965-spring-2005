@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes overview, feedback, initial specification, demonstration,
   and evaluation for the project proposals.
-file: /ol-ocw-studio-app/courses/mas-965-relational-machines-spring-2005/7f646417479b376f8c0d3c736595415e_brooks_proposal.pdf
+file: /courses/mas-965-relational-machines-spring-2005/7f646417479b376f8c0d3c736595415e_brooks_proposal.pdf
 file_size: 49191
 file_type: application/pdf
 learning_resource_types:

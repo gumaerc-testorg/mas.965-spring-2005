@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains informations on overview, the human-horse relationship,
   understanding the target population, overview of mobility options, preliminary study
   results, intial specification, demonstration, and evaluation of final project.
-file: /ol-ocw-studio-app/courses/mas-965-relational-machines-spring-2005/e6daad079dd9da37d1999a6a88a15380_tellexfinalproj.pdf
+file: /courses/mas-965-relational-machines-spring-2005/e6daad079dd9da37d1999a6a88a15380_tellexfinalproj.pdf
 file_size: 88413
 file_type: application/pdf
 learning_resource_types:

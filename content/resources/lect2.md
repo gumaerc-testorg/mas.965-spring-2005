@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource conatins a brief summary of week 2 readings, questions
   to ponder for relational machines.
-file: /ol-ocw-studio-app/courses/mas-965-relational-machines-spring-2005/c376f50e5ad0ad774ffe23b3aa2c2bab_lect2.pdf
+file: /courses/mas-965-relational-machines-spring-2005/c376f50e5ad0ad774ffe23b3aa2c2bab_lect2.pdf
 file_size: 198882
 file_type: application/pdf
 learning_resource_types:

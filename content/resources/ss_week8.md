@@ -4,7 +4,7 @@ description: 'This resource includes assignments created by the students on peer
   and problem solving: when are two heads better than one?, the design of guided learner-adaptable
   scaffolding in interactive learning environments, and affective agents: sustaining
   motivation to learn through failure and a state of ?Stuck?.'
-file: /ol-ocw-studio-app/courses/mas-965-relational-machines-spring-2005/0e8195682245f26a23c75e70950442c9_ss_week8.pdf
+file: /courses/mas-965-relational-machines-spring-2005/0e8195682245f26a23c75e70950442c9_ss_week8.pdf
 file_size: 70564
 file_type: application/pdf
 learning_resource_types:

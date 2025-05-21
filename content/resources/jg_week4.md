@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes assignments created by the students on robotic
   pets in the lives of preschool children, and technology and human vulnerability.
-file: /ol-ocw-studio-app/courses/mas-965-relational-machines-spring-2005/3a67ee35a71a976fefd7c384f41df626_jg_week4.pdf
+file: /courses/mas-965-relational-machines-spring-2005/3a67ee35a71a976fefd7c384f41df626_jg_week4.pdf
 file_size: 55445
 file_type: application/pdf
 learning_resource_types:
