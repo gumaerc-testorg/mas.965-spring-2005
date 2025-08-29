@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource conatains overview, feedback, initial spec, demonstration,
   and evaluation of the project proposals.
-file: /courses/mas-965-relational-machines-spring-2005/85a6f141ccae31b619dc4a0aba3f7763_sadi_proposal.pdf
+file: /ol-ocw-studio-app/courses/mas-965-relational-machines-spring-2005/85a6f141ccae31b619dc4a0aba3f7763_sadi_proposal.pdf
 file_size: 73148
 file_type: application/pdf
 learning_resource_types:

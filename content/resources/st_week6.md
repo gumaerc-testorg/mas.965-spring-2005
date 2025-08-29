@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource includes assignments created by the students on "DiamondHelp:
   A Collaborative Interface Framework for Networked Home Appliances".'
-file: /courses/mas-965-relational-machines-spring-2005/24d0ccc571c3068678da8ebae6e2ab2c_st_week6.pdf
+file: /ol-ocw-studio-app/courses/mas-965-relational-machines-spring-2005/24d0ccc571c3068678da8ebae6e2ab2c_st_week6.pdf
 file_size: 52920
 file_type: application/pdf
 learning_resource_types:

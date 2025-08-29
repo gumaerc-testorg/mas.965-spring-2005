@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes project exersices submitted by the student in
   week 3, 4, and 5.
-file: /courses/mas-965-relational-machines-spring-2005/e65af722ef1d3b3d9782a6ba04001bd5_tellex_exercises.pdf
+file: /ol-ocw-studio-app/courses/mas-965-relational-machines-spring-2005/e65af722ef1d3b3d9782a6ba04001bd5_tellex_exercises.pdf
 file_size: 66809
 file_type: application/pdf
 learning_resource_types:

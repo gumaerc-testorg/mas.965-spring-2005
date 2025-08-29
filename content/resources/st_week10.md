@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes assignments created by the students on what Imitation
   tells us about social cognition.
-file: /courses/mas-965-relational-machines-spring-2005/c64076cbfac3250fc697c70a99b765a3_st_week10.pdf
+file: /ol-ocw-studio-app/courses/mas-965-relational-machines-spring-2005/c64076cbfac3250fc697c70a99b765a3_st_week10.pdf
 file_size: 43385
 file_type: application/pdf
 learning_resource_types:
