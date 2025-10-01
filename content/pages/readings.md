@@ -239,9 +239,9 @@ Interactions with Learning Companion and Tutorial Agents
 
 Azmitia, M. "Peer interaction and problem solving. When are two heads better than one?" _Child Development_ 59 (1988): 87-96.
 
-Jackson, S., J. Krajcik, and E. Soloway. "The design of guided learner-adaptable scaffolding in interactive learning environments." _CHI_ 98 Los Angeles, CA. ([PDF](http://portal.acm.org/citation.cfm?id=274644.274672))
+Jackson, S., J. Krajcik, and E. Soloway. "The design of guided learner-adaptable scaffolding in interactive learning environments." _CHI_ 98 Los Angeles, CA. ({{% resource_link "dba2ed73-58ce-4baf-ae15-6e1784e6ecef" "PDF" %}})
 
-Burleson, Winslow, and Rosalind Picard. "Affective Agents: Sustaining Motivation to Learn Through Failure and a State of Stuck." Social and Emotional Intelligence in Learning Environments Workshop. In conjunction with the 7th International Conference on Intelligent Tutoring Systems. Maceio - Alagoas, Brasil, August 31, 2004. ([PDF](http://affect.media.mit.edu/pdfs/04.burleson-picard.pdf))
+Burleson, Winslow, and Rosalind Picard. "Affective Agents: Sustaining Motivation to Learn Through Failure and a State of Stuck." Social and Emotional Intelligence in Learning Environments Workshop. In conjunction with the 7th International Conference on Intelligent Tutoring Systems. Maceio - Alagoas, Brasil, August 31, 2004. ({{% resource_link "bec74070-74d1-4bcc-a647-9c3f55331ae3" "PDF" %}})
 
 
 {{< tdclose >}}
@@ -265,7 +265,7 @@ Interaction with Trainers and Assistant Agents
 {{< tdopen >}}
 
 
-Bickmore, Tim, and Roz Picard. "Establishing and Maintainint Long-Term Human-Computer Relationships." _ACM Transactions on Computer Human Interaction (ToCHI)_, 2004. (Special Issue on Social Issues and HCI.) ([PDF](http://affect.media.mit.edu/pdfs/04.bickmore-picard-tochi.pdf))
+Bickmore, Tim, and Roz Picard. "Establishing and Maintainint Long-Term Human-Computer Relationships." _ACM Transactions on Computer Human Interaction (ToCHI)_, 2004. (Special Issue on Social Issues and HCI.) ({{% resource_link "40729efe-67b2-4f01-ac1c-7652440cc0a6" "PDF" %}})
 
 
 {{< tdclose >}}
@@ -313,7 +313,7 @@ McCarthy, C. E., and M. E. Pollack. "A Plan-Based Personalized Cognitive Orthoti
 
 Starner, Thad. "Attention, Memory, and Wearable Interfaces." _IEEE Pervasive Computing_ 1, no. 4 (2002).
 
-Consolvo, Sunny, Peter Roessler, Brett Shelton, Anthony LaMarca, Bill Schilit, and Sara Bly. "[Computer-Supported Coordinated Care: Using Technology to Help Care for Elders](https://www.researchgate.net/publication/228861716_Computer-Supported_Coordinated_Care_Using_Technology_to_Help_Care_for_Elders_Version_1_Submission_date_Dec_22_2003)." IRS-TR-03-017, December 22, 2003.
+Consolvo, Sunny, Peter Roessler, Brett Shelton, Anthony LaMarca, Bill Schilit, and Sara Bly. "{{% resource_link "6cad5767-ceb8-46b1-9902-e8e1055861b0" "Computer-Supported Coordinated Care: Using Technology to Help Care for Elders" %}}." IRS-TR-03-017, December 22, 2003.
 
 
 {{< tdclose >}}
