@@ -93,7 +93,7 @@ Fong, T., I. Nourbakhsh, K. Dautenhahn. "A Survey of Socially Interactive Robots
 
 Cassell, Justine, Timothy Bickmore, Mark Billinghurst, Lee Campbell, Kenny Chang, Hannes Vilhjálmsson, and Hao Yan. "Embodiment in Conversational Interfaces: Rea." In *proceedings of CHI 99.* 1999.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262025102) Breazeal, Cynthia. [*Designing Sociable Robots*](https://mitpress.mit.edu/9780262025102). Cambridge, MA: MIT Press, 2002. ISBN: 9780262025102.
+{{% resource_link "2e8ad3ff-46b4-4a1e-9d85-790030cfd423" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Breazeal, Cynthia. {{% resource_link "2e8ad3ff-46b4-4a1e-9d85-790030cfd423" "*Designing Sociable Robots*" %}}. Cambridge, MA: MIT Press, 2002. ISBN: 9780262025102.
 
 Walker, M. A., J. E. Cahn, et. al. "Linguistic Style Improvisation for Lifelike Computer Characters." AAAI 96 Workshop on AI, Alife and Entertainment, Portland, 1996.
 
@@ -109,7 +109,7 @@ Coughlin, J. "Technology needs of aging boomers." *Issues in Science and Technol
 
 Fisk, Arthur D., and W. A. Rogers. "Psychology and aging: Enhancing the lives of an aging population." *Current Directions in Psychological Science* 11 (2002): 107.
 
-Fredrickson, Barbara L. "[Cultivating Positive Emotions to Optimize Health and Well-Being](http://journals.apa.org/prevention/volume3/toc-mar07-00.html)." *Prevention & Treatment* 3 (2000).
+Fredrickson, Barbara L. "{{% resource_link "f32ca2ff-6a28-4b1a-b5a3-3b77d832f820" "Cultivating Positive Emotions to Optimize Health and Well-Being" %}}." *Prevention & Treatment* 3 (2000).
 
 Mynatt, Elizabeth D., and Wendy A. Rogers. "Developing technology to support the functional independence of older adults." In *Aging International.* 2002.
 
@@ -169,7 +169,7 @@ Klein, J., Y. Moon, et al. "This Computer Responds to User Frustration: Theory, 
 
 Grand, Steve. *Creation: Life and How to Make It*. Cambridge, MA: Harvard University Press, 2003.
 
-Prendigner, H., and M. Ishizuka. "Evolving social relationships with animate characters." ([PDF](http://research.nii.ac.jp/~prendinger/papers/helmut-aisb02.pdf))
+Prendigner, H., and M. Ishizuka. "Evolving social relationships with animate characters." ({{% resource_link "9db25a05-a695-449b-9ff5-98d364a9ab54" "PDF" %}})
 
 MacNamee, B., and P. Cunningham. "Creating socially interactive non player characters: the µ-SIC system." *International Journal of Intelligent Games & Simulation* 2, no. 1 (2003).
 
